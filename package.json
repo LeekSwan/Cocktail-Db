@@ -1,0 +1,23 @@
+{
+  "name": "cocktail-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeekSwan/Cocktail-Db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeekSwan/Cocktail-Db/issues"
+  },
+  "homepage": "https://github.com/LeekSwan/Cocktail-Db#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
